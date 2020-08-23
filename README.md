@@ -1,5 +1,6 @@
 ### Hello! My name is Joysankar Sengupta. 👋
 I’m a Indian maker–of–software living in Kolkata with a passion for design, art and technology. 
+
 As a curious person, I find discovering users' unexpected behaviours fascinating, I relish solving problems and flexing my visual design eye to enhance peoples' experience of the world.
 
 <!--
